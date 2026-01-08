@@ -75,5 +75,3 @@ The script follows a filtered decision tree to ensure target accuracy without wa
 - **v1.0.3**: Added Tool-Check to `__index` to allow UI interaction while unequipped.  
 
 ---
-
-> Would you like me to create a `Settings.json` template so you can save and load your configurations between sessions?
