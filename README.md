@@ -21,7 +21,7 @@ A high-performance, metamethod-based Silent Aim script for Roblox. This project 
 
 **Execution**: Run the provided `LocalScript` in your preferred environment.  
 
-**Menu Toggle**: Press **RightAlt** (default) to show or hide the GUI.  
+**Menu Toggle**: Press **RightShift** (default) to show or hide the GUI.  
 
 **Configuration**:
 
